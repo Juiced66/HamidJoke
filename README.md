@@ -4,7 +4,7 @@ Utilisation de hooks React pour le rendu.
 
 Appel a l'API https://www.blagues-api.fr/ .
 
-TODO : Blagues par catégorie, CSS pour faire parler Hammid
+TODO : Blagues par catégorie, CSS pour faire parler Hamid
 
 En cas de réutilisation : 
 

@@ -10,7 +10,7 @@ En cas de réutilisation :
 
 npm i
 
-modifier le TOKEN de l'API (disponnible sur leur site) 
+modifier le TOKEN de l'API (disponible sur leur site) 
 
 npm start 
 

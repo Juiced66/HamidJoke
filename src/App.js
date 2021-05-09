@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import img from './hammid.png'
 
-const API_URL = 'https://www.blagues-api.fr/api/random'
+const API_URL = 'https://www.blagues-api.fr/api/random?disallow=dark&disallow=limit'
 const API_TOKEN = {
   headers: {
       'Authorization': `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjcxOTk4OTY5ODYzNzMzMjQ4IiwibGltaXQiOjEwMCwia2V5IjoidjVvTkJvTmgxSnFVd1ZUeU9Mb0VLaFhPM3NZS3g2WktRTWxDQlhlekdvRTRzd1p1ZlAiLCJjcmVhdGVkX2F0IjoiMjAyMS0wNS0wOVQwOTozNjo1OSswMDowMCIsImlhdCI6MTYyMDU1MzAxOX0.uk0XGCW4z5pR6ltFZUPiIdhu22GpAVw6gu3_fQasJ-Q`  

@@ -30,7 +30,7 @@ function App() {
   return (
     <div className = "container">
       <div className = "box">
-      <h1>Hammid Joke Generator</h1>
+      <h1>Hamid Joke Generator</h1>
       <p>{joke}</p>
       <p>{answer}</p>
       <button onClick ={generateJoke}> Une autre ! 😀</button>

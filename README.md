@@ -1,6 +1,6 @@
 Générateur de blagues demandé a de nombreuses reprises par l'ami Hammid . 
 
-Utilisation de React pour le rendu.
+Utilisation de hooks React pour le rendu.
 
 Appel a l'API https://www.blagues-api.fr/ .
 

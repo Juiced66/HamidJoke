@@ -1,4 +1,4 @@
-Générateur de blagues demandé a de nombreuses reprises par l'ami Hammid . 
+Générateur de blagues demandé a de nombreuses reprises par l'ami Hamid . 
 
 Utilisation de hooks React pour le rendu.
 
